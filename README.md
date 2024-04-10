@@ -2,8 +2,8 @@ Olá! Eu sou a Camila 👋
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-CamilaAllana.vercel.app/api/top-langs/?username=CamilaAllana&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=camilaallana&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-camilaallana.vercel.app/api/top-langs/?username=camilaallana&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -31,7 +31,7 @@ Olá! Eu sou a Camila 👋
 
 #### Secondary Stack:
 
-![Maestro](https://img.shields.io/badge/Maestro-FFFFFF?style=for-the-badge&logo=Maestro&logoColor=black)&nbsp;
+![Maestro](https://https://maestro.mobile.dev/~gitbook/image?url=https:%2F%2F2384395183-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fn5KVIOjVkVjYRyVWZ0yT%252Ficon%252FiWOlXXbwVTJ9BL1NdnUu%252Ficon-w-bg.svg%3Falt=media%26token=db2884aa-e09e-4296-b8c7-ac8f1c709343&width=32&dpr=4&quality=100&sign=3ed7db8b9edbbf804ac43a97db7a95f344956d23f3c64d6ba5a41f1fe892e9df/badge/Maestro-FFFFFF?style=for-the-badge&logo=Maestro&logoColor=black)&nbsp;
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white)&nbsp;
 
 
@@ -46,14 +46,14 @@ Olá! Eu sou a Camila 👋
 &nbsp;
 &nbsp;
 
+
+
+
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:camila.allana91@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/camila-allana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
