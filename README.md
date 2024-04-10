@@ -3,6 +3,7 @@ Olá! Eu sou a Camila 👋
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=camilaallana&theme=radical&mode=weekly" />
+ 
 <img width=40% align="center" src="https://github-readme-stats-git-main-camilaallana.vercel.app/api/top-langs/?username=camilaallana&show_icons=true&theme=radical&layout=compact" />
  </div>
  
@@ -31,7 +32,7 @@ Olá! Eu sou a Camila 👋
 
 #### Secondary Stack:
 
-![Maestro](https://https://maestro.mobile.dev/~gitbook/image?url=https:%2F%2F2384395183-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fn5KVIOjVkVjYRyVWZ0yT%252Ficon%252FiWOlXXbwVTJ9BL1NdnUu%252Ficon-w-bg.svg%3Falt=media%26token=db2884aa-e09e-4296-b8c7-ac8f1c709343&width=32&dpr=4&quality=100&sign=3ed7db8b9edbbf804ac43a97db7a95f344956d23f3c64d6ba5a41f1fe892e9df/badge/Maestro-FFFFFF?style=for-the-badge&logo=Maestro&logoColor=black)&nbsp;
+![Maestro](https://maestro.mobile.dev/~gitbook/image?url=https:%2F%2F2384395183-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fn5KVIOjVkVjYRyVWZ0yT%252Ficon%252FiWOlXXbwVTJ9BL1NdnUu%252Ficon-w-bg.svg%3Falt=media%26token=db2884aa-e09e-4296-b8c7-ac8f1c709343&width=32&dpr=4&quality=100&sign=3ed7db8b9edbbf804ac43a97db7a95f344956d23f3c64d6ba5a41f1fe892e9df/badge/Maestro-FFFFFF?style=for-the-badge&logo=Maestro&logoColor=black)&nbsp;
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white)&nbsp;
 
 
