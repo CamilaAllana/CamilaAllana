@@ -1,4 +1,4 @@
-# Olá! Eu sou a Camila 👋
+## Olá! Eu sou a Camila 👋
 
 
 <div  align="center" style="margin-bottom:100px">
@@ -14,7 +14,7 @@
 
  ## My Skills
 
- ### Main Stack:
+ #### Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
