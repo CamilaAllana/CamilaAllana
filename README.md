@@ -12,9 +12,9 @@ Olá! Eu sou a Camila 👋
 
 
 
-## My Skills
+ My Skills
 
-#### Main Stack:
+ Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -31,14 +31,14 @@ Olá! Eu sou a Camila 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="480px" height="280px" align="right" alt="Computador iuriCode">
 
 
-#### Secondary Stack:
+ Secondary Stack:
 
 ![Maestro](https://img.shields.io/badge/Maestro-%230a0a0a?style=for-the-badge&logo=Maestro&logoColor=white)&nbsp;
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white)&nbsp;
 
 
 
-#### Workstation Tools:
+ Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
@@ -52,7 +52,7 @@ Olá! Eu sou a Camila 👋
 
 
 
-## Contacts:
+ Contacts:
 
 <div> 
 <a href = "mailto:camila.allana91@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
